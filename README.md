@@ -1,2 +1,2 @@
-# coding-ninja-2020
+# Java 101 Programming
 Coding Ninja 2020
