@@ -17,8 +17,5 @@ public class Solution
 	           return 1;
 	        }
 	        return fib(n-1) + fib(n-2);
-
 	        }
-
-
 }
